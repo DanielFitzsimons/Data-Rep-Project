@@ -60,7 +60,7 @@ export function Update(){
                             onChange={(e)=>{setPrice(e.target.value)}}
                         />
                     </div>
-                <input type="submit" value="Edit CD"></input>
+                <input type="submit" value="Update CD"></input>
             </form>
         </div>
     );
